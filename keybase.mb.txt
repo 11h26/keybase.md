@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am 11h26 on github.
+  * I am lockcat (https://keybase.io/lockcat) on keybase.
+  * I have a public key ASBNSpN9GYl4dGeapubUo1BiZx6zaou8Qa6MyWsd-xTjWQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204d4a937d19897874679aa6e6d4a35062671eb36a8bbc41ae8cc96b1dfb14e3590a",
+      "host": "keybase.io",
+      "kid": "01204d4a937d19897874679aa6e6d4a35062671eb36a8bbc41ae8cc96b1dfb14e3590a",
+      "uid": "7c243dc00ff2e618eb384d86dfe9b819",
+      "username": "lockcat"
+    },
+    "merkle_root": {
+      "ctime": 1568466587,
+      "hash": "e285b51caaf5a275aaa2cdc0ad1eb4aaa05884689188bdd2fe67bb3aac349bc12726f01b907d13950a330db571ec063c4bf2373681945dab9629af82dde37f62",
+      "hash_meta": "4d47ebbbfb916ab8a07308c5aaf16787a9e0d7e250717888f0d8bdf41753d7e1",
+      "seqno": 7305154
+    },
+    "service": {
+      "entropy": "FPKMpxbuebr+6R5Ir/Y3TQp1",
+      "name": "github",
+      "username": "11h26"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568466617,
+  "expire_in": 504576000,
+  "prev": "463a73904a198d6ef52658a31ad2316d7e0fa8db0f35e10ac68653755d42a296",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASBNSpN9GYl4dGeapubUo1BiZx6zaou8Qa6MyWsd-xTjWQo](https://keybase.io/lockcat), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTUqTfRmJeHRnmqbm1KNQYmces2qLvEGujMlrHfsU41kKp3BheWxvYWTESpcCBcQgRjpzkEoZjW71JlijGtIxbX4PqNsPNeEKxoZTdV1CopbEIL1dm3gvD6rT7Xo2dk8gmojjb5buzGHkvAeMysMspXEiAgHCo3NpZ8RA6CgVwEf2GUaf98Z0lRHpNidsAMVESUGRaBvX/l6PbUoA4eGbTZc8DWLUl6Z3go63A9t+/NvNdx+w64QeCx2VCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINRkFVfZysw/FmlD3eUkzQZ8jqFBg2m0n590zKs8uCAPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/lockcat
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id lockcat
+```
